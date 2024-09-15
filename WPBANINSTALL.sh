@@ -1,3 +1,5 @@
+pip install colorama
+
 apt update -y
 
 apt upgrade -y
